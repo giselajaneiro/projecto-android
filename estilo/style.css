@@ -20,8 +20,8 @@
    --cor6: #063d1e;
 
    --fonte-padrao: Arial,verdana, helvetica, sans-serif;
-   --fonte-destaque: 'Bebas Neue', cursive;
-   --fonte-android: 'Android', cursive;
+   --fonte-destaque: 'Bebas Neue', sans-serif;
+   --fonte-android: 'Android', sans-serif;
    }
    * {
     margin: 0px;
